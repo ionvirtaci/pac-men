@@ -3,7 +3,7 @@
 Simulates pac-men chomping across the screen. Create as many pac-men as you want and press `start game` to begin. Once started, you will need to reload the page to stop.
 
 ## How to run
-Open the index.html page on any browser.
+Open the index.html page in any browser.
 
 ## Roadmap
 - Add a stop button
